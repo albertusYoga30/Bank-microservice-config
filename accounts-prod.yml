@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Simple bank accounts microservice Test"
+  message: "Simple bank accounts microservice"
   contactDetails:
     name: "Evan skibidi - Product Owner"
     email: "epan@gmail.com"
