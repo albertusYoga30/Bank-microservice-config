@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Simple bank accounts microservice"
   contactDetails:
-    name: "Yoga dwi - Developer"
+    name: "Yoga dwi p - Developer"
     email: "yoga@gmail.com"
   onCallSupport:
     -08628130021
