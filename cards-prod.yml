@@ -4,7 +4,7 @@ build:
 cards:
   message: "Simple bank accounts microservice"
   contactDetails:
-    name: "Evan - Product Owner"
+    name: "Evan siu - Product Owner"
     email: "epan@gmail.com"
   onCallSupport:
     -08628130021
